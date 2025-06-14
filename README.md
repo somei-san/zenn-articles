@@ -8,4 +8,6 @@
 
 # 個人的備忘
 
+- プレビューする
+  - `npx zenn preview`
 - [デプロイ履歴](https://zenn.dev/dashboard/deploys)
