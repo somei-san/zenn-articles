@@ -80,7 +80,3 @@ def calcTaxIncludedAmount(basePrice):
 処理のDRYは当然重要。例えば Generics のない言語は実務上やっぱしんどい。
 しかしながら、とにかくDRYだ！ひたすらDRYだ！！死んでもDRYだ！！！ってテンションだと後々つらいことになるパターンも存在する。
 処理のDRYと意味のDRYの区別を頭の片隅に入れておくと、未来のあたなが助かることもあるかもね🫵
-
-## 補足
-
-この記事は[この記事](https://qiita.com/goyaYellow/items/f319b12f9713acc8e25c)の複製です

@@ -439,7 +439,3 @@ if(sourceSet.Any(x => x == 3))
 ## まとめ
 
 LINQ はなれないと挙動でテンパることがあるけど、仕組みをしると愛着がわく。
-
-## 補足
-
-この記事は[この記事](https://qiita.com/goyaYellow/items/c2e736254be3e8fa447d)の複製です

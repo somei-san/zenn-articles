@@ -106,7 +106,3 @@ published_at: 2022-05-02 # Qiita の記事が元なのでそちらの公開日�
    上のやつを読むのがいやなら。
 3. [新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則](https://qiita.com/hirokidaichi/items/c9a76191216f3cc6c4b2)
    より実践的な解説かな？
-
-## 補足
-
-この記事は[この記事](https://qiita.com/goyaYellow/items/c2e736254be3e8fa447d)の複製です
